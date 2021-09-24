@@ -1,0 +1,20 @@
+.margem-topo {
+    padding-top: 20%;
+}
+
+.full-width {
+    width: 70%;
+}
+
+.alinhar-texto {
+    text-align: center;
+}
+
+.cor-botao {
+    background-color: #198754;
+    color: white;
+}
+
+.fonte-calculadora {
+    font-family: 'Bebas Neue', cursive;
+}
